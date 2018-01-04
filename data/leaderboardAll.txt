@@ -1,0 +1,17 @@
+16
+Bob,601
+Shifty,417
+Name,358
+Prince,200
+Marcie,123
+Beagle117,98
+Nick,97
+Waffle,84
+Jail Break Jordan,45
+b,25
+a,18
+Batman,18
+Test,10
+Obama,15
+Rambo,12
+,0
